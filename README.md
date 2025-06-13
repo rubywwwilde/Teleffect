@@ -1,6 +1,6 @@
-# teleffect
+# Teleffect
 
-🦆 Type-safe Telegram Bot API client built with Effect-TS
+🦆 Type-safe Telegram Bot API client built with Effect-TS inspired by [GramJS](https://github.com/gram-js/gramjs) and [Telethon](https://github.com/LonamiWebs/Telethon/).
 
 ## Important
 
